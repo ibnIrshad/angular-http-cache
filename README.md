@@ -70,6 +70,7 @@ Feel free to drop me a line if you have an issue, doubt, problem or suggestion, 
 1) Check the network status and don't make the request if offline.
 2) Include unit tests.
 3) Add JSONP support.
+4) Set expiration time when making request
 
 ### License
 
